@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Benny@postgres",
+    "database": "krakenapi",
+    "host": "192.168.12.138",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Benny@postgres",
+    "database": "krakenapi",
+    "host": "192.168.12.138",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Benny@postgres",
+    "database": "krakenapi",
+    "host": "192.168.12.138",
+    "dialect": "mysql"
+  }
+}
